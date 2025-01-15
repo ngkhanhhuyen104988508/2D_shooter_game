@@ -61,7 +61,6 @@ end
 
 def boost_player2(player2)
     player2.velocity_x += Gosu.offset_x(player2.angle, 1.1)
-    
     player2.velocity_y += Gosu.offset_y(player2.angle, 1.1)
 end
 
