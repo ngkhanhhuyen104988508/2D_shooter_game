@@ -11,6 +11,7 @@ require_relative 'player2'
 require_relative 'player2bullet'
 require_relative 'menubutton'
 
+
 module ZOrder
     BACKGROUND, MIDDLE, TOP = *0..2
   end

@@ -6,5 +6,6 @@ class Enemybullet
     @y = y
     @radius = 4  # Nửa chiều rộng của đạn
     @image = Gosu::Image.new('image/enemybullet.png')  
+    
   end
 end

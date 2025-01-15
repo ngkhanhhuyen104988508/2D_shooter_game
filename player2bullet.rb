@@ -7,5 +7,6 @@ class Player2bullet
         @image = Gosu::Image.new('image/player2bullet.png')
         @radius = 12.5
         @window = window
+        
     end
 end

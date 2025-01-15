@@ -7,5 +7,6 @@ class Explosion
         @images = Gosu::Image.load_tiles('image/explosions.png', 60, 60) 
         @image_index = 0 
         @finished = false
+        
     end
 end

@@ -1,4 +1,5 @@
 class Player 
+    
     attr_accessor :x, :y, :angle, :image, :velocity_x, :velocity_y, :radius, :window
     def initialize(window)
         @x = 600

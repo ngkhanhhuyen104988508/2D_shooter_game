@@ -6,5 +6,6 @@ class Boss
         @y = 0 
         @image = Gosu::Image.new('image/boss.png')
         @hp = 12
+        
     end
 end

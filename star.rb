@@ -12,6 +12,7 @@ class Star
         @y = 0
     end
 
+
 end
 
 

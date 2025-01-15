@@ -9,5 +9,6 @@ class Player2
         @velocity_y = 0 
         @radius = 20
         @window = window
+        
     end
 end

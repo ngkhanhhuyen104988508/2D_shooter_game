@@ -1,6 +1,7 @@
 class MenuButton
   attr_reader :x, :y, :text, :width, :height, :font, :action
   
+  
   def initialize(window, text, x, y, action)
     @window = window
     @text = text

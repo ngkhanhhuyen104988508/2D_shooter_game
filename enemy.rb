@@ -6,5 +6,6 @@ class Enemy
         @y = 0
         @image = Gosu::Image.new('image/tank_enemy.png')
         @last_shot = nil
+        
     end
 end
